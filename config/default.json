@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb://romeo:romeo112@ds159216.mlab.com:59216/shopping-cart-mern",
+	"jwtSecret": "how ya doin"
+}
